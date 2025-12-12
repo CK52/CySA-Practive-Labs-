@@ -1,2 +1,2 @@
-# CySA-Practice-Labs-
-LAB-01-Network-Traffic-Analysis/
+# CySA-Practice-Labs-Setting up a SPLUNK SIEM via Virtual Machine
+
